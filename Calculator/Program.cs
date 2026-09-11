@@ -1,5 +1,7 @@
 ﻿class Program()
 {
+    static readonly string[] operations = ["Add", "Subtract", "Multiply", "Divide"];
+
     static void Main(string[] args)
     {
         Calculator calculatorInstance = new Calculator();
@@ -26,10 +28,7 @@
         }
 
         Console.WriteLine("Please choose the operation you would like to perform:");
-        // TODO: Set foreground color for add to green to signify the default selection
-        /****
-        * TODO: when DownArrow or UpArrow is pressed change foreground color to signify line
-        */
+       
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Add");
         Console.ResetColor();
@@ -39,45 +38,54 @@
 
         // string selectedOption = Console.ReadLine();
         int maxIndex = Console.CursorTop;
-        Console.WriteLine(maxIndex);
         int minIndex = Console.CursorTop - 4;
         int currentIndex = minIndex;
-        string[] operations = ["Add", "Subtract", "Multiply", "Divide"];
         int relativeIndex = 0;
         Console.SetCursorPosition(0, currentIndex);
 
         ConsoleKeyInfo readKey = Console.ReadKey();
         while (readKey.Key != ConsoleKey.Escape && readKey.Key != ConsoleKey.Enter)
         {
-            Console.WriteLine(operations[relativeIndex]);
-            if (readKey.Key == ConsoleKey.DownArrow && currentIndex < maxIndex)
-            {
-                currentIndex += 1;
-                relativeIndex += 1;
-                // Console.Write(new string(' ', Console.WindowWidth));
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.Write($"{operations[relativeIndex]}");
-            }
-            else if (readKey.Key == ConsoleKey.UpArrow && currentIndex > minIndex)
-            {
-                currentIndex -= 1;
-                relativeIndex -= 1;
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.Write($"{operations[relativeIndex]}");
-            }
-            Console.ResetColor();
+            Console.Write(operations[relativeIndex]);
 
-            Console.SetCursorPosition(0, currentIndex);
+            switch (readKey.Key)
+            {
+                case ConsoleKey.UpArrow:
+                    if (currentIndex > minIndex)
+                    {
+                        currentIndex--;
+                        relativeIndex--;
+                    }
+
+                    UpdateOperationList(currentIndex, relativeIndex);
+                    break;
+                case ConsoleKey.DownArrow:
+                    if (currentIndex + 1 < maxIndex)
+                    {
+                        currentIndex++;
+                        relativeIndex++;
+                    }
+
+                    UpdateOperationList(currentIndex, relativeIndex);
+                    break;
+                default:
+                    Console.SetCursorPosition(0, relativeIndex);
+                    break;
+            }
+
             readKey = Console.ReadKey();
         }
-        //     Console.SetCursorPosition(0, currentIndex);
+    }
 
-        //     selectedText = $">>> {selectedOption} <<<";
+    static void UpdateOperationList(int currentIndex, int relativeIndex)
+    {
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.SetCursorPosition(0, currentIndex);
+        Console.Write($"{operations[relativeIndex]}");
 
-        //     if ()
-        //         Console.WriteLine($"You pressed: {keyInfo.Key}");
-        //     keyInfo = Console.ReadKey();
-        // }
+        Console.ResetColor();
+
+        Console.SetCursorPosition(0, currentIndex);
     }
 
     static bool IsValidDecimal(string numberString, out decimal number)
