@@ -32,7 +32,6 @@
         */
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Add");
-        Console.WriteLine("Add");
         Console.ResetColor();
         Console.WriteLine("Subtract");
         Console.WriteLine("Multiply");
