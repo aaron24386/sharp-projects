@@ -1,0 +1,43 @@
+C:\Users\aaron\Code Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.exe
+C:\Users\aaron\Code Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.deps.json
+C:\Users\aaron\Code Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.runtimeconfig.json
+C:\Users\aaron\Code Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.dll
+C:\Users\aaron\Code Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.pdb
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.AssemblyInfoInputs.cache
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.AssemblyInfo.cs
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.dll
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\refint\CalculatorConsole.dll
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.pdb
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.genruntimeconfig.cache
+C:\Users\aaron\Code Projects\CalculatorConsole\obj\Debug\net9.0\ref\CalculatorConsole.dll
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.AssemblyInfoInputs.cache
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.AssemblyInfo.cs
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.dll
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\refint\CalculatorConsole.dll
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.pdb
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.exe
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.deps.json
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.runtimeconfig.json
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.dll
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.pdb
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.genruntimeconfig.cache
+C:\Users\Aaron\OneDrive\Documents\Dev Shared Projects\CalculatorConsole\obj\Debug\net9.0\ref\CalculatorConsole.dll
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\bin\Debug\net9.0\CalculatorConsole.exe
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\bin\Debug\net9.0\CalculatorConsole.deps.json
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\bin\Debug\net9.0\CalculatorConsole.runtimeconfig.json
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\bin\Debug\net9.0\CalculatorConsole.dll
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\bin\Debug\net9.0\CalculatorConsole.pdb
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.AssemblyInfoInputs.cache
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.AssemblyInfo.cs
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.sourcelink.json
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.dll
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\refint\CalculatorConsole.dll
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.pdb
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\CalculatorConsole.genruntimeconfig.cache
+C:\Users\Aaron\Coding Projects\sharp-projects\Calculator\obj\Debug\net9.0\ref\CalculatorConsole.dll
